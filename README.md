@@ -1,6 +1,6 @@
 # ASE Calc Microservice
 
-[![Coverage Status](https://coveralls.io/repos/github/lorenzovolpi/calc4testing/badge.svg?branch=main)](https://coveralls.io/github/lorenzovolpi/calc4testing?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/lorenzovolpi/calc4testing/badge.svg?branch=master)](https://coveralls.io/github/lorenzovolpi/calc4testing?branch=master)
 
 ### Setup the environment
 
